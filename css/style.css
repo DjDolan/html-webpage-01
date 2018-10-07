@@ -1,0 +1,43 @@
+body {
+    background-image: url(Minimalist-Background-HD.png);
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+.container {
+/*
+    background-color: orangered;
+    box-shadow: 2px 3px 5px black;
+*/
+}
+
+.wolf {
+    width: 140px;
+    height: 100px;
+}
+
+.borderImg {
+    width: 390px;
+    height: 300px;
+    border: none;
+    background: none;
+}
+
+/*
+#circle {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}*/
+
